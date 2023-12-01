@@ -10,3 +10,7 @@ const myFunction = function(){
     console.log("Hello world");
 }
 console.log(typeof myfunction);
+
+// ++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive), heap (Non-Primitive)
